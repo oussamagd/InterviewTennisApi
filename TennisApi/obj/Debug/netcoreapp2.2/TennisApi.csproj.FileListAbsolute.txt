@@ -1,0 +1,14 @@
+C:\Users\Saif\source\repos\TennisApi\TennisApi\bin\Debug\netcoreapp2.2\TennisApi.deps.json
+C:\Users\Saif\source\repos\TennisApi\TennisApi\bin\Debug\netcoreapp2.2\TennisApi.runtimeconfig.json
+C:\Users\Saif\source\repos\TennisApi\TennisApi\bin\Debug\netcoreapp2.2\TennisApi.runtimeconfig.dev.json
+C:\Users\Saif\source\repos\TennisApi\TennisApi\bin\Debug\netcoreapp2.2\TennisApi.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApi\bin\Debug\netcoreapp2.2\TennisApi.pdb
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.csproj.CoreCompileInputs.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.RazorAssemblyInfo.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.RazorAssemblyInfo.cs
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.AssemblyInfoInputs.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.AssemblyInfo.cs
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.RazorTargetAssemblyInfo.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.pdb
+C:\Users\Saif\source\repos\TennisApi\TennisApi\obj\Debug\netcoreapp2.2\TennisApi.csprojAssemblyReference.cache

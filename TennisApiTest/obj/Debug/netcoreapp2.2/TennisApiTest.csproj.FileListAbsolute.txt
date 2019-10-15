@@ -1,0 +1,17 @@
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApiTest.deps.json
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApiTest.runtimeconfig.json
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApiTest.runtimeconfig.dev.json
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApiTest.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApiTest.pdb
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApi.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\bin\Debug\netcoreapp2.2\TennisApi.pdb
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.csprojAssemblyReference.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.AssemblyInfoInputs.cache
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.AssemblyInfo.cs
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.csproj.CopyComplete
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.dll
+C:\Users\Saif\source\repos\TennisApi\TennisApiTest\obj\Debug\netcoreapp2.2\TennisApiTest.pdb
