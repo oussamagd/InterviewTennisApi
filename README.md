@@ -3,10 +3,10 @@
 ## Description
 A net core api with the following routes
 
-GET /api/players			Get all players ordered by Id </br>
-GET /api/players/{id}		Get a player by Id or 404 if player doesn't exist </br>
-DELETE /api/players/{id}	Delete a player by Id and return 204 or 404 if player doesn't exist  </br>
-GET /index.html				Contains Api Swagger documentation </br>
+GET /api/players			Get all players ordered by Id. </br>
+GET /api/players/{id}		Get a player by Id or 404 if player doesn't exist. </br>
+DELETE /api/players/{id}	Delete a player by Id and return 204 or 404 if player doesn't exist.  </br>
+GET /index.html				Contains Api Swagger documentation. </br>
 
 ## How to run 
 1/This application use .net core 2.2 so we have to have this version or above installed </br>
